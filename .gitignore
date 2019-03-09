@@ -3,3 +3,5 @@
 
 # datasets
 /ml-100k
+rratings.csv
+my_model.h5
